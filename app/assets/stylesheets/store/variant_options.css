@@ -8,10 +8,14 @@
 
 .variant-option-type {
   margin-bottom: 0;
+  font-weight: bold;
 }
 #product-variants ul.variant-option-values {
   list-style-type: none;  
   margin-bottom: 1em;
+}
+#product-variants ul li.clear {
+  padding:0px;
 }
 .variant-option-values li {
   display: block;
