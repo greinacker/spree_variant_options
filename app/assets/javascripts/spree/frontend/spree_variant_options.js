@@ -1,4 +1,2 @@
-//= require store/spree_frontend
-
-//= require store/product_variant_options
-//= require store/variant_options
+//= require spree/frontend/product_variant_options
+//= require spree/frontend/variant_options
